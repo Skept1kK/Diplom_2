@@ -2,7 +2,6 @@ import allure
 import requests
 import helper
 from url import Urls
-from conftest import create_user
 
 
 

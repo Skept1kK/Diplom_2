@@ -1,6 +1,5 @@
 import helper
 import allure
-from conftest import create_user
 from data import Component
 
 
